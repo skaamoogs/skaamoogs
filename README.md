@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @skaamoogs
-- 👀 I’m interested in Frontend Development especially React
-- 🌱 I’m currently learning TypeScript
+# :wave: Привет, меня зовут Александр 
 
 <!---
 skaamoogs/skaamoogs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
