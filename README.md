@@ -13,6 +13,13 @@
 
 ### Контакты:
 
+<a href="https://www.facebook.com/alex.shabanov.54">
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/facebook.png" alt="Facebook" title="Facebook" width="30" height="30" />
+</a>
+<span>   </span>
+<a href="https://www.linkedin.com/in/skaamoogs/">
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="Linkedin" title="Linkedin" width="30" height="30" />
+</a>
 
 <!---
 skaamoogs/skaamoogs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
