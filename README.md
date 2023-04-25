@@ -1,7 +1,7 @@
 ### :wave: Привет, меня зовут Александр
 
-- :hammer_and_wrench: Завершаем супер крутой командный проект "Онлайн-игра "Монополия"
-- 
+- :computer: Начинающий фронтенд раработчик
+- :hammer_and_wrench: Завершаем супер крутой командный проект "Онлайн-игра "Монополия" (https://github.com/22-reactors/monopoly)
 
 ### Мой стек:
 ![HTML5](https://user-images.githubusercontent.com/94950998/234196094-78e4ee89-3252-4bde-91a5-1a677520c1f5.svg)
@@ -12,12 +12,12 @@
 ![Redux](https://user-images.githubusercontent.com/94950998/234097610-6a049d82-eb63-4fcd-8fd5-084eec324437.svg)
 ![Docker](https://user-images.githubusercontent.com/94950998/234210679-cbf38159-2a17-48b7-8f4b-5ab54f2564b0.svg)
 
-### Контакты:
+### Мои соцсети:
 
 <a href="https://www.facebook.com/alex.shabanov.54">
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/facebook.png" alt="Facebook" title="Facebook" width="30" height="30" />
 </a>
-<a href="https://www.linkedin.com/in/skaamoogs/" style="margin: 0 10px">
+<a href="https://www.linkedin.com/in/skaamoogs/">
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="Linkedin" title="Linkedin" width="30" height="30" />
 </a>
 
