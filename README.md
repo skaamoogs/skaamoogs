@@ -10,6 +10,8 @@
 ![React](https://user-images.githubusercontent.com/94950998/234099552-1fc72dd8-3756-4b10-923a-07b162ba253b.svg)
 ![Redux](https://user-images.githubusercontent.com/94950998/234097610-6a049d82-eb63-4fcd-8fd5-084eec324437.svg)
 ![PostgreSQL](https://user-images.githubusercontent.com/94950998/234104301-c0e899bd-67fb-4616-8bde-5728d4a718bd.svg)
+![1920px-Docker_(container_engine)_logo svg](https://user-images.githubusercontent.com/94950998/234195594-f147899d-6426-4378-8d59-c2a686466082.png)
+
 
 ### Контакты:
 
