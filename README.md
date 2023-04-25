@@ -1,25 +1,23 @@
 ### :wave: Привет, меня зовут Александр
 
 - :hammer_and_wrench: Завершаем супер крутой командный проект "Онлайн-игра "Монополия"
+- 
 
 ### Мой стек:
-![HTML5](https://user-images.githubusercontent.com/94950998/233976546-72341d33-9f3c-44f1-8220-744141d7db0b.svg)
-![JavaScript](https://user-images.githubusercontent.com/94950998/234098885-de61b5de-8f74-4050-85b1-8bd930a3f421.svg)
-![SASS](https://user-images.githubusercontent.com/94950998/234096302-f1638e85-8665-4e5c-a0c1-23d81af78bad.svg)
-![TypeScript](https://user-images.githubusercontent.com/94950998/234099976-3b559753-5bb9-4fe9-a344-a250d4050348.svg)
-![React](https://user-images.githubusercontent.com/94950998/234099552-1fc72dd8-3756-4b10-923a-07b162ba253b.svg)
+![HTML5](https://user-images.githubusercontent.com/94950998/234196094-78e4ee89-3252-4bde-91a5-1a677520c1f5.svg)
+![JavaScript](https://user-images.githubusercontent.com/94950998/234196514-1b3cd835-9fa8-4df4-b760-9ba216c07368.svg)
+![SASS](https://user-images.githubusercontent.com/94950998/234197004-94f8a926-1ed3-4749-a96b-f10315dee029.svg)
+![TypeScript](https://user-images.githubusercontent.com/94950998/234197252-54005aea-1dca-456b-a549-c8c815d17c95.svg)
+![React](https://user-images.githubusercontent.com/94950998/234204353-71cf85f6-9a04-48ad-a7ab-934a8bfb3f85.svg)
 ![Redux](https://user-images.githubusercontent.com/94950998/234097610-6a049d82-eb63-4fcd-8fd5-084eec324437.svg)
-![PostgreSQL](https://user-images.githubusercontent.com/94950998/234104301-c0e899bd-67fb-4616-8bde-5728d4a718bd.svg)
-![1920px-Docker_(container_engine)_logo svg](https://user-images.githubusercontent.com/94950998/234195594-f147899d-6426-4378-8d59-c2a686466082.png)
-
+![Docker](https://user-images.githubusercontent.com/94950998/234210679-cbf38159-2a17-48b7-8f4b-5ab54f2564b0.svg)
 
 ### Контакты:
 
 <a href="https://www.facebook.com/alex.shabanov.54">
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/facebook.png" alt="Facebook" title="Facebook" width="30" height="30" />
 </a>
-<span>   </span>
-<a href="https://www.linkedin.com/in/skaamoogs/">
+<a href="https://www.linkedin.com/in/skaamoogs/" style="margin: 0 10px">
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="Linkedin" title="Linkedin" width="30" height="30" />
 </a>
 
