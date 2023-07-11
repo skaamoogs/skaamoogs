@@ -1,7 +1,7 @@
 ### :wave: Привет, меня зовут Александр
 
 - :computer: Начинающий фронтенд раработчик
-- :hammer_and_wrench: Завершаем супер крутой командный проект "Онлайн-игра "Монополия" (https://github.com/22-reactors/monopoly)
+- :hammer_and_wrench: Участвую в проекте "Корпортаивная социальная сеть" (https://github.com/social-network-ya-practicum)
 
 ### Мой стек:
 ![HTML5](https://user-images.githubusercontent.com/94950998/234196094-78e4ee89-3252-4bde-91a5-1a677520c1f5.svg)
