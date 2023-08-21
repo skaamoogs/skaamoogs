@@ -16,6 +16,9 @@
 ![skaamoogs GitHub stats](https://github-readme-stats.vercel.app/api?username=skaamoogs&show_icons=true&theme=radical&hide=issues&custom_title=Профиль)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skaamoogs&langs_count=6&layout=compact&theme=radical&custom_title=Часто%20используемые%20языки)](https://github.com/anuraghazra/github-readme-stats)
 
+### Codewars:
+https://www.codewars.com/users/skaamoogs/badges/large
+
 ### Контакты:
 
 <a href="https://www.facebook.com/alex.shabanov.54">
