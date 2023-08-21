@@ -17,7 +17,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skaamoogs&langs_count=6&layout=compact&theme=radical&custom_title=Часто%20используемые%20языки)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Codewars:
-(https://www.codewars.com/users/skaamoogs/badges/large)
+![codewars](https://www.codewars.com/users/skaamoogs/badges/small)
 
 ### Контакты:
 
