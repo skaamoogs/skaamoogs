@@ -12,9 +12,11 @@
 ![Redux](https://user-images.githubusercontent.com/94950998/234097610-6a049d82-eb63-4fcd-8fd5-084eec324437.svg)
 ![Docker](https://user-images.githubusercontent.com/94950998/234210679-cbf38159-2a17-48b7-8f4b-5ab54f2564b0.svg)
 <br/><br/><br/>
+<!--- 
 ### Статистика:
 ![skaamoogs GitHub stats](https://github-readme-stats.vercel.app/api?username=skaamoogs&show_icons=true&theme=radical&hide=issues&custom_title=Профиль)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skaamoogs&langs_count=6&layout=compact&theme=radical&custom_title=Часто%20используемые%20языки)](https://github.com/anuraghazra/github-readme-stats)
+--->
 
 ### Codewars:
 ![codewars](https://www.codewars.com/users/skaamoogs/badges/small)
